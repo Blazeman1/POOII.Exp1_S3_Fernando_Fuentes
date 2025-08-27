@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/demo/Main.java</file>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/model/Product.java</file>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/model/Order.java</file>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/model/User.java</file>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/model/ShoppingCart.java</file>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/model/DiscountManager.java</file>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/view/ProductView.java</file>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/view/ShoppingCartView.java</file>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/view/DiscountView.java</file>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/controller/ProductController.java</file>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/controller/ShoppingCartController.java</file>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/controller/DiscountController.java</file>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/decorator/Component.java</file>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/decorator/Product.java</file>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/decorator/Decorator.java</file>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/decorator/TenPercentDiscount.java</file>
+            <file>file:/C:/Users/ffuen/Documents/NetBeansProjects/Exp1_S3_Fernando_Fuentes/src/decorator/CategoryDiscount.java</file>
+        </group>
+    </open-files>
+</project-private>
